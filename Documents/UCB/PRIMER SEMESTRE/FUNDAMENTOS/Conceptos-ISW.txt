@@ -1,0 +1,61 @@
+# Conceptos - Ingenieria de Software
+###Software:
+Programas de ordenador y documentación asociada. Los productos de Software se pueden desarrrollar para clientes o un mercado en general.
+
+El software es un conjunto de reglas o programas que dan instrucciones a un ordenador para que realice tareas específicas. También se conoce como aplicaciones de software, paquetes de software, herramientas de software y programas de software. El software puede utilizarse para gestionar datos, automatizar procesos y crear aplicaciones o productos informáticos. Su complejidad puede variar desde un simple programa de tratamiento de textos hasta complejos sistemas informáticos que controlan infraestructuras críticas en sectores como la sanidad y el transporte.
+- Qué es software - definición, Significado y Ejemplos. Arimetrics. (2023, Octubre 19). https://www.arimetrics.com/glosario-digital/software 
+
+###Ingeniería de Software:
+La ingeniería de Software es una disciplina de ingenieria que comprende todos los aspectos de producción de software. Comprende las formas prácticas para desarrollar y entregar un software útil.
+
+La ingeniería del software es una disciplina que implica el uso de estructuras, herramientas y técnicas para construir programas informáticos.
+Asimismo, incluye el análisis previo de la situación, la redacción del proyecto, la creación del software y las pruebas necesarias para garantizar su correcto funcionamiento antes de que el sistema esté operativo. 
+Esta ingeniería aborda todas las fases del ciclo de vida de desarrollo de cualquier tipo de sistema de información y es aplicable a una amplia gama de ámbitos de la informática y la ciencia de los ordenadores, como el diseño de compiladores, sistemas operativos y tecnologías de Intranet/Internet: la empresa, la investigación científica, la medicina, la fabricación, la logística, la banca, el control del tráfico y la meteorología son solo algunos de los campos en los que puede trabajar.
+- Unir, V. (2023, 22 noviembre). Ingeniería de software: qué es, objetivos y funciones del ingeniero. Universidad Virtual. | UNIR Colombia - Maestrías y Grados Virtuales. https://colombia.unir.net/actualidad-unir/ingenieria-de-software-que-es-objetivos/
+
+###Git: 
+Es un sistema de control de versiones de documentos.
+
+Git es un sistema de control de versiones distribuido, lo que significa que un clon local del proyecto es un repositorio de control de versiones completo. Estos repositorios locales plenamente funcionales permiten trabajar sin conexión o de forma remota con facilidad. Los desarrolladores confirman su trabajo localmente y sincronizan la copia del repositorio con la del servidor. Este paradigma es distinto del control de versiones centralizado, donde los clientes deben sincronizar el código con un servidor antes de crear nuevas versiones.
+- Mijacobs. (2023a, October 4). ¿Qué es git? - azure DevOps. Azure DevOps | Microsoft Learn. https://learn.microsoft.com/es-es/devops/develop/git/what-is-git 
+
+###Programación: 
+Es el uso de lenguaje de programación informático para imprimir en un sistema computacional funciones y procesos deseados para las computadoras.
+
+La programación es la actividad que se enfoca en organizar un conjunto de datos ordenados a seguir para ser ciertas cosas, esta definición puede utilizarse en muchos contextos.
+Pero en el área de informática la programación es fundamental para la relación entre ordenadores y los usuarios.
+En informática se emplea para idear y organizar las ideas necesarias para un proyecto, ya sea para crear programas o aplicaciones.
+Todo esto con ayuda de lenguajes de programación, los cuales son idiomas artificiales prediseñados con signos, palabras y símbolos que nos ayuda a que el ordenador ejecute aplicaciones y programas
+- Executradmin. (2022, May 23). ¿Qué es programación?. Executrain. https://executrain.com.mx/que-es-programacion/#:~:text=La%20programaci%C3%B3n%20es%20la%20actividad,entre%20ordenadores%20y%20los%20usuarios. 
+
+###Lenguaje de Programación:
+Es como un idioma que utilizamos para comunicarnos con la computadora, para darle órdenes y ella nos devuelva las acciones.
+
+Un lenguaje de programación es un conjunto de reglas gramaticales (tanto sintácticas como semánticas) que instruyen a que un ordenador o dispositivo se comporte de una cierta manera. Cada lenguaje de programación tiene un vocabulario, un conjunto único de palabras clave que sigue a una sintaxis especial para formar y organizar instrucciones del ordenador.  
+- Chakray. (2023, November 21). Lenguajes de Programación: Tipos, características y Diferencias. https://www.chakray.com/es/lenguajes-programacion-tipos-caracteristicas/ 
+
+###Compilador:
+Se encarga de transformar o traducir el lenguaje de programación a idioma binario para que la computadora lo entienda.
+
+Un compilador es un programa que traduce código fuente escrito en un lenguaje de alto nivel como Java, a un lenguaje legible por la máquina llamado código objeto, lenguaje de destino o incluso lenguaje ensamblador. Por lo tanto, un compilador podría llamarse traductor, pero sus tareas son más amplias porque, como parte de la compilación del programa, también informa de errores al leer el código
+- Compilador. ¿Qué es un Compilador? - Ryte Digital Marketing Wiki. (n.d.). https://es.ryte.com/wiki/Compilador 
+
+###Ciclo de desarrollo de Software y sus componentes:
+El ciclo de vida del desarrollo de software abarca el desarrollo de nuevo software desde la etapa de planificación inicial hasta la implementación y el mantenimiento a largo plazo.
+Sus componentes son:
+**1. Planificación:** Saber que hay que hacer, redactar en documentos las tareas. Que es el problema?
+**2. Analisis:** Pensar cual es la mejor solución para el problema planetado.
+**3. Diseño:** Dibujo de ejemplo, analizar los requisitos, identificar las mejores soluciones.
+**4. Desarrollo:** Se trata de llevar a cabo la idea principal, hora de la codificación.
+**5. Pruebas:** Una vez esta listo el software, es importante siempre probar en diferentes computadoras ya que puede variar dependiendo de las horas y fechas.
+**6.Mantenimiento:** Seguir demostrando que funciona el código.
+
+El ciclo de vida del desarrollo de software (en inglés: SDLC – Systems Development Life Cycle) es la estructura que contiene los procesos, actividades y tareas relacionadas con el desarrollo y mantenimiento de un producto de software, abarcando la vida completa del sistema, desde la definición de los requisitos hasta la finalización de su uso.
+**1. Planificación:** El desarrollo de software comienza con una fase inicial de planificación incluyendo un análisis de requisitos. Nos fijamos en los requisitos que piden los clientes para estudiar cuales están poco claros, incompletos, ambiguos o contradictorios. Se indaga en profundidad y se hacen demostraciones prácticas incluyendo a los usuarios clave. 
+**2. Analisis:** En este paso el equipo del proyecto asigna recursos y planifica el tiempo de duración del proyecto. Se buscan limitaciones del producto y se identifican los impactos del proyecto sobre toda la organización en su conjunto.
+**3. Diseño:** En esta fase ya se comienza a visualizar la solución con la ayuda de las anteriores fases. Se hace un diseño lógico y otro físico. Se crean metadatos, diagramas o pseudocódigos. La duración de esta fase varía de un proyecto a otro.
+**4. Desarrollo:** Esta fase también denominada ‘fase de programación’ o ‘fase de desarrollo’ es en la que elige el lenguaje de programación más conveniente, y se desarrollan programas ejecutables y sin errores de manera eficiente. Nuestro enfoque es construir trozos de funcionalidad. Por lo tanto, entregar unidades de funcionalidad concisa. Al final de esta fase se puede obtener un PMV (Producto mínimo viable) o el software completamente desarrollado y listo para implementarse.
+**5. Pruebas:** Esta fase junto con la fase de desarrollo entra en un ciclo continuo hasta que se completan el desarrollo y las pruebas. Probamos, probamos y luego volvemos a probar tanto como sea necesario hasta que la funcionalidad sea del 100%.
+**6. Mantenimiento:** Por último, pero no menos importante el mantenimiento es uno de los elementos clave de éxito de cualquier proyecto. En esta fase se minimizan pequeños errores, se confirma el buen funcionamiento del software, su eficiencia y estabilidad.
+- Ciclo de Vida del Desarrollo De Software. Ungoti. (2021, October 24). https://ungoti.com/es/soluciones/desarrollo-de-software/sdlc/ 
+

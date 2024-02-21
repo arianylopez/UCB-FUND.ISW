@@ -1,0 +1,28 @@
+Programación: Uso de lenguaje infórmatico de programación para imprimir en un sistema computacional funciones y procesos deseados. Proceso de escribir códigos para resolver un problema en particular o para implementar una tarea específica.
+Lenguaje de Programación: Es como un idioma para comunicarse con la computadora, para darle instrucciones a través de ello.
+Compilador: Se encarga de transformar el lenguaje de programación a idioma binario para que la computadora lo entienda.
+Ciclo de Desarrollo: Se basa en 6 pasos al crear un proyecto.
+         1. Planificación: Saber que hay que hacer, investigar sobre el problema,redactar em documentos las tareas.
+         2. Análisis: Pensar que es lo mejor, ver soluciones y el problema en si.
+         3. Diseño: Dibujo de ejemplo, analizar los requisitos e identificar las mejores soluciones.
+         4. Codificación: Empesar a plasmar la idea en códigos
+         5. Pruebas: Probar siempre en diferentes computadoras, ya que varia con horas y fechas.
+         6. Mantenimiento: Seguir demostrando que funciona el código.
+
+Software. Programas de ordenador y la documentacion asociada. Los productos de software se pueden desarrollar para algun cliente en particular o un mercado general.
+Ingenieria de Software. Es una disciplina de ingenieria que comprende todos los aspectos de la producción de software. 
+Proceso de software. Conjunto de actividades para crear un software
+Git. Control de versiones de un documento
+
+Como comenzar un proyecto de software?
+Debemos entender lo que necesita el cliente. 
+
+La gestion de proyectos es la coordinacion de los procesos, herramientas, miembros del equipo y habilidades para que puedas entregar proyectos que superen objetivos.
+Metodologias (Herramientas para gestionar proyectos). Conjunto de reglas, principios y procesos para gestionar un proyecto
+
+Pasos para completar un proyecto (Ciclo de vida de un proyecto).
+1. Autorizar
+2. Definir el alcance
+3. Desarrollar el cronograma
+4. Informar el estado
+5. Cerrar el proyecto

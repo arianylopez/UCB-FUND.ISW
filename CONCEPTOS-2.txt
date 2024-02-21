@@ -1,0 +1,72 @@
+# CONCEPTOS - SEGUNDA TAREA
+
+*Concepto Propio
+- Formato APA
+
+1. Git init:
+* Crea un repositorio de Git vacio o reinicializa uno existente para poder subir archivos
+
+Para crear un nuevo repositorio, usa el comando git init. git init es un comando que se utiliza una sola vez durante la configuración inicial de un repositorio nuevo. Al ejecutar este comando, se creará un nuevo subdirectorio .git en tu directorio de trabajo actual. También se creará una nueva rama principal.
+- Atlassian. (s. f.). Como crear un repositorio de Git | Atlassian Git Tutorial. https://www.atlassian.com/es/git/tutorials/setting-up-a-repository#:~:text=git%20init%20es%20un%20comando,crear%C3%A1%20una%20nueva%20rama%20principal.
+
+2. Git config:
+* Este comando nos ayuda a configurar nuestro Git, con que cuenta y nombre de usuario para las confirmaciones en el repositorio local para el usuario actual.
+
+El comando git config es una función útil que sirve para definir valores de configuración de Git a nivel de un proyecto global o local. Estos niveles de configuración se corresponden con archivos de texto .gitconfig. Al ejecutar git config, se modificará un archivo de texto de configuración. 
+- Atlassian. (s. f.-b). git config | Atlassian Git Tutorial. https://www.atlassian.com/es/git/tutorials/setting-up-a-repository/git-config
+
+3. Git add:
+* Agrega los cambios que hemos realizado en alguna carpeta específica para la siguiente confirmación o cambio que haya.
+
+Mueve los cambios del directorio de trabajo al área del entorno de ensayo. Así puedes preparar una instantánea antes de confirmar en el historial oficial.
+- Atlassian. (s. f.-a). Comandos básicos de Git | Atlassian Git Tutorial. https://www.atlassian.com/es/git/glossary#commands
+
+4. Git commit:
+* Nos confirma los datos que hemos actualizado pero sin que tengamos que abrir o usar un editor de texto, utilizamos un mensaje para confirmar los camhios.
+
+El comando git commit captura una instantánea de los cambios preparados en ese momento del proyecto. Las instantáneas confirmadas pueden considerarse como versiones "seguras" de un proyecto: Git no las cambiará nunca a no ser que se lo pidas expresamente. Antes de ejecutar git commit, se utiliza el comando git add para pasar o "preparar" los cambios en el proyecto que se almacenarán en una confirmación. Estos dos comandos, git commit y git add, son dos de los que se utilizan más frecuentemente.
+- Atlassian. (s. f.-c). git commit | Atlassian Git Tutorial. https://www.atlassian.com/es/git/tutorials/saving-changes/git-commit
+
+5. Git push:
+* Nos permite agregar contenido a un repositorio remoto.
+
+El comando git push te permite subir los commits desde tu rama (branch) local en tu repositorio git local al repositorio remoto. Para poder subir a tu repositorio remoto, debemos asegurarnos de hacer commit  a todos tus cambios al repositorio local.
+-Perez, C. (2021, 23 abril). El comando git push explicado. freeCodeCamp.org. https://www.freecodecamp.org/espanol/news/el-comando-git-push-explicado/
+
+6. Git pull:
+* Se obtiene una copia del repositorio remoto y hace la mezcla con lo que tenemos en el repositorio local.
+
+El comando git pull se emplea para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido. 
+- Atlassian. (s. f.-e). git pull | Atlassian Git Tutorial. https://www.atlassian.com/es/git/tutorials/syncing/git-pull
+
+7. Git Branch:
+* Nos permite crear, eliminar, cambiar nombre de las ramas que vayamos a utilizar. Es como un administrador de las ramas del repositorio.
+
+El comando git branch es en realidad una especie de herramienta de gestión de ramas. Puede listar las ramas que tienes, crear una nueva rama, eliminar ramas y cambiar el nombre de las ramas. 
+- Git - ramificar y fusionar. (s. f.). https://git-scm.com/book/es/v2/Ap%C3%A9ndice-C%3A-Comandos-de-Git-Ramificar-y-Fusionar#:~:text=El%20comando%20git%20branch%20es,largo%20de%20todo%20el%20cap%C3%ADtulo.
+
+8. Git checkout:
+* Nos permite movernos entre las ramas creadas en el repositorio. También crear ramas en base a ramas actuales.
+
+Además de extraer las confirmaciones y las revisiones de archivos antiguas, git checkout también sirve para navegar por las ramas existentes. Combinado con los comandos básicos de Git, es una forma de trabajar en una línea de desarrollo concreta.
+- Atlassian. (s. f.-b). Comandos básicos de Git | Atlassian Git Tutorial. https://www.atlassian.com/es/git/glossary#commands
+
+9. Github:
+* Es una plataforma que nos permite guardar proyectos usando el sistema de control de versiones de Git. Nos permite gestionar proyectos y controlar versiones de código.
+
+GitHub es una plataforma de alojamiento, propiedad de Microsoft, que ofrece a los desarrolladores la posibilidad de crear repositorios de código y guardarlos en la nube de forma segura, usando un sistema de control de versiones llamado Git.
+
+Facilita la organización de proyectos y permite la colaboración de varios desarrolladores en tiempo real. Es decir, nos permite centralizar el contenido del repositorio para poder colaborar con los otros miembros de nuestra organización.
+- Camacho, Diego. (2021, 25 agosto). Qué es GitHub y cómo usarlo para aprovechar sus beneficios. Platzi. https://platzi.com/blog/que-es-github-como-funciona/
+
+10. Github Pages:
+* Es un servicio de sitio que agarra archivos desde GitHub, nos permite publicar sitios web.
+
+GitHub Pages es un servicio de alojamiento de sitio estático que toma archivos HTML, CSS y JavaScript directamente desde un repositorio en GitHub, opcionalmente ejecuta los archivos a través de un proceso de complilación y publica un sitio web. 
+- Acerca de GitHub Pages - documentación de GitHub. (s. f.). GitHub Docs. https://docs.github.com/es/pages/getting-started-with-github-pages/about-github-pages
+
+11. Wiki:
+* Son aquellas páginas web en el cual sus contenidos pueden ser editados por muchos usuarios.
+
+Es una página web que permite la creación y edición de un número de páginas web intercomunicadas a través de un navegador utilizando un lenguaje de etiquetas simplificado o un editor de texto.
+- Definición Wiki. (s. f.). https://www.eustat.eus/documentos/opt_1/tema_289/elem_16633/definicion.html#:~:text=Definici%C3%B3n%20Wiki&text=Es%20una%20p%C3%A1gina%20web%20que,see%20is%20what%20you%20get).

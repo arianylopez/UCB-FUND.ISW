@@ -1,0 +1,28 @@
+# CONCEPTOS - TERCERA TAREA
+
+* Concepto Propio
+- Formato APA
+
+** 1. Gestión de Proyecto **
+* Es el proceso de llevar a cabo un proyecto, donde se controla el proceso, las herramientas y a todo el equipo que es necesario para crear el software.
+
+La gestión de proyectos es la coordinación de los procesos, las herramientas, los miembros del equipo y las habilidades para que puedas entregar proyectos que superen tus objetivos.
+- Atlassian. (s. f.-g). La guía definitiva de gestión de proyectos | The Workstream. https://www.atlassian.com/es/work-management/project-management
+
+** 2. Control de Versiones ** 
+* Es la gestión que se hace al software, viendo que cambios se hacen el código fuente para nuevas actualizaciones o cambios.
+
+El control de versiones, también conocido como "control de código fuente", es la práctica de rastrear y gestionar los cambios en el código de software. Los sistemas de control de versiones son herramientas de software que ayudan a los equipos de software a gestionar los cambios en el código fuente a lo largo del tiempo. 
+- Atlassian. (s. f.-h). Qué es el control de versiones | Atlassian Git Tutorial. https://www.atlassian.com/es/git/tutorials/what-is-version-control
+
+** 3. Requerimientos de Software **
+* Son los requisitos que se obtienen cuando vamos a realizar un software, las especificaciones que va a querer el cliente para poder llevarlas a cabo.
+
+Requerimientos de software son simplemente una descripción de lo que un programa de software en particular debe hacer. Actúan como pautas para que los desarrolladores creen un producto funcional que satisfaga las necesidades de los usuarios. 
+- Northware. (2022, 29 julio). Requerimientos en el desarrollo de software y aplicaciones. Northware. https://www.northware.mx/blog/requerimientos-en-el-desarrollo-de-software-y-aplicaciones/
+
+** 4. Calidad en el Software **
+* Es la manera de comprobar que el programa cumple con todos lo requerimientos, que todas las pautas se llegaron a cumplir y todas nuestras tareas fueron realizadas. 
+
+Calidad en el software está en relación directa con el cumplimiento de los requerimientos formulados por el usuario, de tal forma que si un programa no cumple con alguno de estos requerimientos, es un software de baja calidad. Aunque el criterio de cumplimiento de los requerimientos es un factor importante, no es el único, ya que existen condiciones implícitas que el software debe cumplir como son eficiencia, seguridad, integridad, consistencia, entre otras. 
+- Agencia, F. (2022, 18 abril). Calidad del software. Salud Electrónica. https://saludelectronica.com/calidad-del-software/

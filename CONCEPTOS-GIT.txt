@@ -1,0 +1,56 @@
+# CONCEPTOS GIT 
+
+* Concepto Propio 
+- Formato APA
+
+** 1. Git **
+Es un sistema de control de versiones de documentos.
+
+Git es un sistema de control de versiones distribuido, lo que significa que un clon local del proyecto es un repositorio de control de versiones completo. Estos repositorios locales plenamente funcionales permiten trabajar sin conexión o de forma remota con facilidad. Los desarrolladores confirman su trabajo localmente y sincronizan la copia del repositorio con la del servidor. Este paradigma es distinto del control de versiones centralizado, donde los clientes deben sincronizar el código con un servidor antes de crear nuevas versiones.
+- Mijacobs. (2023a, October 4). ¿Qué es git? - azure DevOps. Azure DevOps | Microsoft Learn. https://learn.microsoft.com/es-es/devops/develop/git/what-is-git 
+
+** 2. Git branch **
+* Nos permite crear, eliminar, cambiar nombre de las ramas que vayamos a utilizar. Es como un administrador de las ramas del repositorio.
+
+El comando git branch es en realidad una especie de herramienta de gestión de ramas. Puede listar las ramas que tienes, crear una nueva rama, eliminar ramas y cambiar el nombre de las ramas. 
+- Git - ramificar y fusionar. (s. f.). https://git-scm.com/book/es/v2/Ap%C3%A9ndice-C%3A-Comandos-de-Git-Ramificar-y-Fusionar#:~:text=El%20comando%20git%20branch%20es,largo%20de%20todo%20el%20cap%C3%ADtulo.
+
+** 3. Git checkout **
+* Nos permite movernos entre las ramas creadas en el repositorio. También crear ramas en base a ramas actuales.
+
+Además de extraer las confirmaciones y las revisiones de archivos antiguas, git checkout también sirve para navegar por las ramas existentes. Combinado con los comandos básicos de Git, es una forma de trabajar en una línea de desarrollo concreta.
+- Atlassian. (s. f.-b). Comandos básicos de Git | Atlassian Git Tutorial. https://www.atlassian.com/es/git/glossary#commands
+
+** 4. Git remote -v **
+* Este comando nos permite conectar el repositorio local y remoto para monitorear los cambios y control de versiones.
+
+El comando git remote es una parte de un sistema más amplio que se encarga de sincronizar los cambios.
+- Atlassian. (s. f.-g). Git remote | Atlassian Git Tutorial. https://www.atlassian.com/es/git/tutorials/syncing#:~:text=El%20comando%20git%20remote%20es,git%20push%20y%20git%20pull.
+
+** 5. Git clone **
+* Nos permite clonar o copiar algún repositorio que querramos a nuestro repositorio remoto.
+
+Es una utilidad de línea de comandos de Git que se utiliza para fijar como objetivo un repositorio existente con el fin de clonarlo o copiarlo. 
+- Atlassian. (s. f.-d). git clone | Atlassian Git Tutorial. https://www.atlassian.com/es/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20es%20una%20utilidad,uso%20comunes%20de%20git%20clone%20.
+
+** 6. Git merge ** 
+* Este comando nos permite mezclar una rama con nuestra rama para tener todos los cambios en uno solo.
+
+El comando git merge permite tomar las líneas independientes de desarrollo creadas por git branch e integrarlas en una sola rama.
+- Atlassian. (s. f.-d). git clone | Atlassian Git Tutorial. https://www.atlassian.com/es/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20es%20una%20utilidad,uso%20comunes%20de%20git%20clone%20.
+
+** 7. Git fork **
+* Es como una rama externa de un repositorio que genera un duplicado del proceso actual.
+
+La función de fork en Git se define como una operación usual en el sistema de Git que se encarga de la creación de una copia de un repositorio en la cuenta de usuario.
+
+Cabe destacar que este repositorio copiado será igual al repositorio desde el que se realiza el fork en Git. A pesar de esto, cuando se cree la copia, cada repositorio se ubicará en espacios diferentes y tendrán la posibilidad de evolucionar de forma diferente, de acuerdo a las acciones del usuario en cada uno de estos recursos de Git.
+- Team, K. (2022, 20 julio). ¿Qué es fork en Git? | KeepCoding Bootcamps. KeepCoding Bootcamps. https://keepcoding.io/blog/que-es-fork-en-git/#:~:text=La%20funci%C3%B3n%20de%20fork%20en,realiza%20el%20fork%20en%20Git.
+
+** 8. Git switch **
+* Nos permite movernos entre ramas, por ej. si estamos en la rama "main" y queremos cambiar a "rama2" usamos este comando, o asi también para crear nuevas ramas.
+
+Parece más intuitivo este nombre para cambiar entre ramas de nuestro repositorio. Switch en inglés significa cambio, y para eso lo podemos utilizar, para cambiar entre ramas y poder crearlas si no existen.
+- Victorhck. (2021, 6 agosto). git switch y git restore. Nuevos comandos para Git. Victorhck In The Free World. https://victorhckinthefreeworld.com/2021/08/09/git-switch-y-git-restore-nuevos-comandos-para-git/#:~:text=Parece%20m%C3%A1s%20intuitivo%20este%20nombre,poder%20crearlas%20si%20no%20existen.&text=Con%20el%20argumento%20%2Dc%20(crear,rama%20y%20cambiar%C3%A1%20a%20ella.
+
+
